@@ -22,5 +22,17 @@
   "lg": {
     "value": 12,
     "type": "borderRadius"
+  },
+  "h1": {
+    "value": 40,
+    "type": "fontSizes"
+  },
+  "h2": {
+    "value": 30,
+    "type": "fontSizes"
+  },
+  "h3": {
+    "value": 20,
+    "type": "fontSizes"
   }
 }

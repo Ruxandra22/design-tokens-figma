@@ -18,3 +18,15 @@
   background-color: var(--primary500);
   color: white;
 }
+
+h1 {
+  font-size: calc(var(--h1) * 1px);
+}
+
+h2 {
+  font-size: calc(var(--h2) * 1px);
+}
+
+h3 {
+  font-size: calc(var(--h3) * 1px);
+}
