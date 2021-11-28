@@ -1,0 +1,23 @@
+{
+  "source": ["tokens/**/*.json"],
+  "platforms": {
+    "css": {
+      "transformGroup": "css",
+      "files": [
+        {
+          "destination": "src/css/variables.css",
+          "format": "css/variables"
+        }
+      ]
+    },
+    "scss": {
+      "transformGroup": "scss",
+      "files": [
+        {
+          "destination": "src/scss/variables.scss",
+          "format": "scss/variables"
+        }
+      ]
+    }
+  }
+}

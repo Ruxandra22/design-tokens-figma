@@ -1,0 +1,26 @@
+{
+  "primary700": {
+    "value": "#4D1945",
+    "type": "color"
+  },
+  "primary600": {
+    "value": "#783C6E",
+    "type": "color"
+  },
+  "primary500": {
+    "value": "#9A6190",
+    "type": "color"
+  },
+  "sm": {
+    "value": 4,
+    "type": "borderRadius"
+  },
+  "md": {
+    "value": 8,
+    "type": "borderRadius"
+  },
+  "lg": {
+    "value": 12,
+    "type": "borderRadius"
+  }
+}
